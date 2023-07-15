@@ -3,8 +3,6 @@
 
 Tech enthusiast who loves to create code, design and share my knowledge with others. 
 
-[![Enton's GitHub stats](https://github-readme-stats.vercel.app/api?username=entonbiba&count_private=true&show_icons=true&theme=white)](https://paypal.me/entonbiba)
-
 📫 Reach out to me on my website:
 https://entonbiba.com
 
