@@ -1,7 +1,8 @@
-### Hi there 👋 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=000000&width=435&lines=Welcome+to+my+profile...)](https://paypal.me/entonbiba)
+### Hello 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=000000&width=435&lines=Welcome+to+my+github...)](https://paypal.me/entonbiba)
 
-Tech enthusiast who loves to create code, design and share my knowledge with others. 
+🎮 Follow me on YouTube:
+https://youtube.com/@entonbiba
 
 📫 Reach out to me on my website:
 https://entonbiba.com
